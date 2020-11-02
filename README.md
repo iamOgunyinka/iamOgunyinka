@@ -18,6 +18,4 @@ Fun facts
 
 - 📫 email: ogunyinkajoshua at yahoo dot com
 
-- 📫 Mobile: plus nine seven one, five two, four seven zero, eight six one zero
-
 - ⚡ Fun fact: I don't do anything for fun.

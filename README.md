@@ -1,4 +1,14 @@
-## Howdy stranger 😄 👋
+<p align="center">
+  <a href="https://github.com/iamOgunyinka?tab=followers">
+    <img src="https://img.shields.io/github/followers/iamOgunyinka?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/iamOgunyinka">
+    <img src="https://img.shields.io/twitter/follow/iamOgunyinka?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+</p>
+<h4 align="center"><img src="https://github-readme-stats.vercel.app/api?username=iamOgunyinka&show_icons=true&theme=tokyonight" /></h4>
+
+## Howdy stranger 👋👋👋
 
 My name is Joshua Ogunyinka. I am a Software Engineer and my day-to-day work involves heavy use of C++(mostly) and Python(sometimes).
 

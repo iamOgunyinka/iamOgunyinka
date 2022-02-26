@@ -10,9 +10,7 @@
 
 ## Howdy stranger 👋👋👋
 
-My name is Joshua Ogunyinka. I am a Software Engineer at Igara Studio, working on this wonderful software called [Aseprite](https://github.com/aseprite/aseprite), among [others](https://github.com/aseprite/).
-
-I develop state of the art software that runs on almost all platforms. Most of my cool projects are proprietary (and are thus in private repositories), that's why I have series of commit logs and almost empty repositories shown. 😄
+My name is Joshua Ogunyinka. I am a (C/C++/Python/Go) Software Engineer and I develop state of the art software that runs on almost all platforms. Most of my cool projects are proprietary (and are thus in private repositories), that's why I have series of commit logs and almost empty repositories shown. I recently worked on [Asperite](https://github.com/aseprite), a sprite and animation software!
 
 Fun facts
 
